@@ -1,2 +1,0 @@
-# CatchSpaceCat
-Created with CodeSandbox
